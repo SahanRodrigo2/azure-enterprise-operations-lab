@@ -42,14 +42,14 @@ Application workloads and production services.
 
 ## Windows Server Implementation
 
-* Windows Server 2022
+* Windows Server 2025
 * Active Directory Domain Services
 * Domain Controller Deployment
 * DNS Services
 
 ## Linux Server Implementation
 
-* Ubuntu 22.04
+* Ubuntu 24
 * Apache Web Server
 * Custom Enterprise Monitoring Lab Website
 
