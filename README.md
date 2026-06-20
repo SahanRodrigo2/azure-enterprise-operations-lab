@@ -4,10 +4,6 @@
 
 This project demonstrates the implementation of an enterprise Azure environment covering infrastructure, identity, monitoring, backup, alerting, and security controls.
 
-## Architecture Diagram
-
-(Insert architecture-diagram.png here)
-
 ## Technologies Used
 
 * Microsoft Azure
