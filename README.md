@@ -7,9 +7,9 @@ This project demonstrates the implementation of an enterprise Azure environment 
 ## Technologies Used
 
 * Microsoft Azure
-* Windows Server 2022
+* Windows Server 2025
 * Active Directory Domain Services
-* Ubuntu 22.04
+* Ubuntu 24
 * Apache Web Server
 * Azure Monitor
 * Log Analytics Workspace
